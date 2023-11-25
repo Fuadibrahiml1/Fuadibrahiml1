@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **AI,Machine Learning**
 
 - 📫 How to reach me **fuadibrahimli37@gmail.com**
-<video width="320" height="240" controls>
-<source src="https://www.youtube.com/shorts/0-eBns1HPtY" type=video/ogg> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fuadibrahiml1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuadibrahiml1" height="30" width="40" /></a>
