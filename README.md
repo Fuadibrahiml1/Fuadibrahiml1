@@ -19,3 +19,5 @@
 <p><a href="https://www.buymeacoffee.com/fuadibrahi4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fuadibrahi4" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadibrahiml1&show_icons=true&locale=en&layout=compact" alt="fuadibrahiml1" /></p>
+
+![snake gif](https://github.com/Fuadibrahiml1/Fuadibrahiml1/blob/output/github-contribution-grid-snake.gif)
