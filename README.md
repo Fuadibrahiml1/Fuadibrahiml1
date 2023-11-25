@@ -21,5 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadibrahiml1&show_icons=true&locale=en&layout=compact" alt="fuadibrahiml1" /></p>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thesuspie/Thesuspie/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Fuadibrahiml1/Fuadibrahiml1/output/github-contribution-grid-snake-dark.svg" />
 </div>
