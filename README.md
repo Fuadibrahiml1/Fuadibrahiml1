@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuad Ibrahimli</h1>
 <h3 align="center">Future Data Scientist</h3>
+<a href="https://www.github.com/fuadibrahiml1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/fuadibrahiml1?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
 
 - 🌱 I’m currently learning **AI,Machine Learning**
 
@@ -22,7 +24,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fuadibrahi4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fuadibrahi4" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadibrahiml1&show_icons=true&locale=en&layout=compact" alt="fuadibrahiml1" /></p>
+------------------------------------------------------------------------------------------------
+
+
+<a href="http://www.github.com/fuadibrahiml1" align="left">><img src="https://github-readme-stats.vercel.app/api?username=fuadibrahiml1&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="fuadibrahiml1's GitHub stats" /></a>
+
+<a href="https://github.com/fuadibrahiml1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadibrahiml1&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Fuadibrahiml1/Fuadibrahiml1/output/github-contribution-grid-snake-dark.svg" />
