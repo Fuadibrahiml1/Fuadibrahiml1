@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuad Ibrahimli</h1>
-<h3 align="center">Future Data Scientist</h3>
+
 <a href="https://www.github.com/fuadibrahiml1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/fuadibrahiml1?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
 
