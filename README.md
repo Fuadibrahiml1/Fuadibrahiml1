@@ -26,12 +26,7 @@ src="https://img.shields.io/github/followers/fuadibrahiml1?logo=github&style=for
 <p><a href="https://www.buymeacoffee.com/fuadibrahi4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fuadibrahi4" /></a></p><br><br>
 
 ------------------------------------------------------------------------------------------------
-
-
-<a href="http://www.github.com/fuadibrahiml1" align="left">><img src="https://github-readme-stats.vercel.app/api?username=fuadibrahiml1&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="fuadibrahiml1's GitHub stats" /></a>
+![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuadibrahiml1&show_icons=true&theme=transparent)
 
 
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Fuadibrahiml1/Fuadibrahiml1/output/github-contribution-grid-snake-dark.svg" />
-</div>
