@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/fuadibrahiml1?logo=github&style=for
 - 📫 How to reach me **fuadibrahimli37@gmail.com**
 
 - ⚡ Fun fact **Elden Ring enjoyer**
-- 📝 &nbsp; [Resume](https://github.com/Fuadibrahiml1/cv).
+- 📝 &nbsp; [Resume](https://github.com/Fuadibrahiml1/cv](https://github.com/Fuadibrahiml1/cv/blob/main/fuadibrahimlicv.pdf)).
 
 <img align="right" height="225" width="450" alt="" src="https://media.giphy.com/media/jnze2sduzuYBqFrnZj/giphy.gif" />
 
