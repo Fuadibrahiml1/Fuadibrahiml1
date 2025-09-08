@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/fuadibrahiml1?logo=github&style=for
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,react,r,matlab,ros,java,mysql,ubuntu&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,r,matlab,ros,java,mysql,ubuntu&perline=4)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fuadibrahi4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fuadibrahi4" /></a></p><br><br>
