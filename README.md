@@ -22,7 +22,7 @@
 - 🤖 Member of **METU Formula Racing - Autonomous Systems Group** 
 - 💡 Former **AI Intern** at *Baykar Teknoloji* and *C4IR Azerbaijan*
 - 🚀 Experienced in **Computer Vision, SLAM, and Sensor Fusion**
-- 🛠️ Worked with **ROS1/ROS2, Unreal Engine, AirSim, and advanced VIO frameworks **  
+- 🛠️ Worked with **ROS1/ROS2, Unreal Engine, AirSim, and advanced VIO frameworks**  
 - 🔭 Career Goal: Building next-generation **self-driving car technologies**
 
 ---
