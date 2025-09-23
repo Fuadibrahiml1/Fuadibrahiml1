@@ -70,7 +70,6 @@
 <div align="center">
 
 ![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuadibrahimli&show_icons=true&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=fuadibrahimli&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuadibrahimli&layout=compact&theme=radical&hide_border=true)
 
 </div>
