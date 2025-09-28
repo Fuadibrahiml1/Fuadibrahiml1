@@ -20,7 +20,7 @@
 ### 🌟 About Me
 - 🎓 3rd-year **Statistics undergraduate at Middle East Technical University (METU)**
 - 🤖 Member of **METU Formula Racing - Autonomous Systems Group** 
-- 💡 Former **AI Intern** at *Baykar Teknoloji* and *C4IR Azerbaijan*
+- 💡 Former **AI and Software Engineer Intern** at *Baykar Teknoloji* and *C4IR Azerbaijan*
 - 🚀 Experienced in **Computer Vision, SLAM, and Sensor Fusion**
 - 🛠️ Worked with **ROS1/ROS2, Unreal Engine, AirSim, and advanced VIO frameworks**  
 - 🔭 Career Goal: Building next-generation **self-driving car technologies**
