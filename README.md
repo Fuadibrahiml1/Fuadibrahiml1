@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuadibrahimli&show_icons=true&theme=radical&hide_border=true)  
+![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuadibrahiml1&show_icons=true&theme=radical&hide_border=true)  
 
 </div>
 
