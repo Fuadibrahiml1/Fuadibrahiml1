@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Fuad Ibrahimli</h1>
-<h3 align="center">📊 3rd-year Statistics Undergraduate | 🤖 AI & Autonomous Systems | 🚗 Aspiring Self-Driving Car Engineer</h3>
+<h3 align="center">📊 4th-year Statistics Undergraduate | 🤖 AI & Autonomous Systems | 🚗 Aspiring Self-Driving Car Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fuadibrahiml1">
@@ -22,8 +22,8 @@
 ---
 
 ### 🌟 About Me
-- 🎓 3rd-year **Statistics undergraduate at Middle East Technical University (METU)**
-- 🤖 Member of **METU Formula Racing - Autonomous Systems Group** 
+- 🎓 4th-year **Statistics undergraduate at Middle East Technical University (METU)**
+- 🤖 Former Member of **METU Formula Racing - Autonomous Systems Group** 
 - 💡 Former **AI and Software Engineer Intern** at *Baykar Teknoloji* and *C4IR Azerbaijan*
 - 🚀 Experienced in **Computer Vision, SLAM, and Sensor Fusion**
 - 🛠️ Worked with **ROS1/ROS2, Unreal Engine, AirSim, and advanced VIO frameworks**  
