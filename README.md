@@ -12,9 +12,7 @@
   </a>
   <a href="https://github.com/Fuadibrahiml1/cv/blob/main/fuadcv2025.pdf">
     <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  <a href="https://fuadibrahiml1.github.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logoColor=white" alt="Portfolio" />
+ 
 </a>
 
 </p>
@@ -70,13 +68,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
 
-![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuadibrahiml1&show_icons=true&theme=radical&hide_border=true)  
-
-</div>
 
 ---
-
-✨ *“Shaping the future with AI and Autonomous Systems.”*
