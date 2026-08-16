@@ -10,7 +10,7 @@
   <a href="mailto:fuadibrahimli37@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Fuadibrahiml1/cv/blob/main/fuadcv2025.pdf">
+  <a href="https://github.com/Fuadibrahiml1/cv/blob/main/FuadIbrahimliCvC.pdf">
     <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
  
 </a>
